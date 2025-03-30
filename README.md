@@ -1,4 +1,4 @@
-# [TIP2025-Submitted] DiCLIP: Diffusion Model Enhances CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation
+# [UnderReview] DiCLIP: Diffusion Model Enhances CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation
 
 <!-- We propose DiCLIP, a novel WSSS framework, which leverages the generative diffusion model to enhance CLIP's dense knowledge across two modalities. -->
 
