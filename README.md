@@ -4,9 +4,10 @@
 
 ## News
 
-* **If you find this work helpful, please give us a :star2: to receive the updation !**
 * **` Mar. 28th, 2025`:** DiCLIP is Submitted.
-* **Code will be available once DiCLIP is accepted...** 🔥🔥🔥
+* **` May. 4th, 2026`:** DiCLIP is Accepted by IEEE Transactions on Image Processing!
+* **The code will be released later this week. Please stay tuned....** 🔥🔥🔥
+* **If you find this work helpful, please give us a :star2: to receive the updation !**
 
 ## Overview
 
