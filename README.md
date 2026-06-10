@@ -89,10 +89,10 @@ to generate a customized KV cache from the synthesized images.
 ## Train DiCLIP
 ``` bash
 ### train voc
-bash run_train.sh scripts/train_voc.py [gpu_device] [gpu_number] [master_port]  train_voc
+bash run_train_voc.sh scripts/train_voc.py [gpu_device] [gpu_number] [master_port]  train_voc
 
 ### train coco
-bash run_train.sh scripts/train_coco.py [gpu_devices] [gpu_numbers] [master_port] train_coco
+bash run_train_coco.sh scripts/train_coco.py [gpu_devices] [gpu_numbers] [master_port] train_coco
 ```
 
 ## Evaluate DiCLIP
